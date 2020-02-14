@@ -11,12 +11,24 @@ class LibraryApplicationTests {
 	
 	@Test
 	void testMemberExample() {
+
+
+
 	}
+
 
 	
 	@Test
 	void testNewspaperExample() {
 	}
+
+
+	
+	@Test
+	void testBooksExample() {
+
+	}
+	
 
 	@Test
 	void testCategoriesExample() {
