@@ -12,5 +12,12 @@ class LibraryApplicationTests {
 		
 		
 	}
+	
+	@Test
+	void testNewspaperExample() {
+		
+		
+		
+	}
 
 }
